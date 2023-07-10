@@ -1,3 +1,4 @@
+create -f - << EOF
 apiVersion: capsule.clastix.io/v1beta2
 kind: Tenant
 metadata:
@@ -6,3 +7,4 @@ spec:
   owners:
   - name: Smasadi41
     kind: User
+EOF
