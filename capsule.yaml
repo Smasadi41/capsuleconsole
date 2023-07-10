@@ -1,7 +1,7 @@
 apiVersion: capsule.clastix.io/v1beta2
 kind: Tenant
 metadata:
-  name: oil
+  name: oils
 spec:
   owners:
     - name: Smasadi41
