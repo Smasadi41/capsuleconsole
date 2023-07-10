@@ -4,5 +4,5 @@ metadata:
   name: oil
 spec:
   owners:
-  - name: Smasadi41
-    kind: User
+    - name: Smasadi41
+      kind: User
