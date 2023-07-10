@@ -1,0 +1,8 @@
+apiVersion: capsule.clastix.io/v1beta2
+kind: Tenant
+metadata:
+  name: new1
+spec:
+  owners:
+    - name: Smasadi41
+      kind: User
